@@ -1,0 +1,31 @@
+README.md
+  s_c9e64669fd6c38::t_f6d7fe195f8e28 63-70
+crates/core/tests/recording.rs
+  s_c9e64669fd6c38::t_80fb9a8b48b6e6 1-79,81,89-91,99
+  s_c9e64669fd6c38::t_4709fb48a08d1a 80,82-88,92-98
+skills/torrential/SKILL.md
+  s_c9e64669fd6c38::t_f6d7fe195f8e28 33-38
+crates/core/src/recording.rs
+  s_c9e64669fd6c38::t_80fb9a8b48b6e6 20-64,72-115,118-119,122-161,163,166
+  s_c9e64669fd6c38::t_33415c9a625e01 1-19,65-71,116-117,120-121,162,164-165
+crates/core/Cargo.toml
+  s_c9e64669fd6c38::t_0e85e14ba9eb61 11
+crates/core/src/lib.rs
+  s_c9e64669fd6c38::t_c090a3848083f6 9
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "ee5c654ff93b1c318e7ae7475e6c5537a65acd11",
+  "prompts": {},
+  "sessions": {
+    "s_c9e64669fd6c38": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1d0a1-bb6b-7c82-bec8-28a57605f053",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "Arth Tyagi <onarth@icloud.com>"
+    }
+  }
+}
